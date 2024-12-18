@@ -6,7 +6,7 @@
 /*   By: ntalmon <ntalmon@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/16 15:37:46 by ntalmon           #+#    #+#             */
-/*   Updated: 2024/12/16 16:27:40 by ntalmon          ###   ########.fr       */
+/*   Updated: 2024/12/17 12:31:54 by ntalmon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -71,7 +71,7 @@ void	to_lower_string(T &e)
 	}
 }
 
-int main( void )
+int main(void)
 {
 	std::cout << "Test with int:" << std::endl;
 	std::cout << std::endl;

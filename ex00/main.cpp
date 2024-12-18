@@ -6,13 +6,13 @@
 /*   By: ntalmon <ntalmon@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/16 15:37:46 by ntalmon           #+#    #+#             */
-/*   Updated: 2024/12/16 15:40:00 by ntalmon          ###   ########.fr       */
+/*   Updated: 2024/12/17 12:32:12 by ntalmon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "whatever.hpp"
 
-int main( void )
+int main(void)
 {
 	int a = 2;
 	int b = 3;
